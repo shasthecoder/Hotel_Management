@@ -1,5 +1,5 @@
-# Hotel_Management
-A Hotel Room Booking Application developed using MongoDB, Express, React and Node
+# Hotel-Management_MERN_Stack
+A Hotel Room Booking Application developed using MongoDB Express, React and Node
 
 It will have the following features:
 
